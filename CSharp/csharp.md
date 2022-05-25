@@ -3,6 +3,7 @@
 - [A needle in the haystack](8Kyu/ANeedleInTheHaystack.cs) - [CodeWars](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) _Solved in 2018_
 - [Remove first and last character](8Kyu/RemoveFirstAndLastCharacter.cs) - [CodeWars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) _Solved in 2018_
 - [Square(n) Sum](8Kyu/SquareNSum.cs) - [CodeWars](https://www.codewars.com/kata/515e271a311df0350d00000f) _Solved in 2022_
+- [Sentence Smash](8Kyu/SentenceSmash.cs) - [CodeWars](https://www.codewars.com/kata/53dc23c68a0c93699800041d) _Solved in 2022_
 
 # 7 Kyu
 
