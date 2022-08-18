@@ -15,3 +15,7 @@
 
 - [Your order, please](6Kyu/YourOrderPlease.cs) - [CodeWars](https://www.codewars.com/kata/55c45be3b2079eccff00010f) _Solved in 2018_
 - [Rectangle into squares](6Kyu/RectangleIntoSquares.cs) - [CodeWars](https://www.codewars.com/kata/55466989aeecab5aac00003e) _Solved in 2020_
+
+# 5 Kyu
+
+- [Simple pig latin](5Kyu/SimplePigLatin.cs) - [CodeWars](https://www.codewars.com/kata/520b9d2ad5c005041100000f) _Solved in 2022_
