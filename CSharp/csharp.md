@@ -10,6 +10,7 @@
 
 - [The coupon code](7Kyu/TheCouponCode.cs) - [CodeWars](https://www.codewars.com/kata/539de388a540db7fec000642) _Solved in 2020_
 - [Categorize New Member](7Kyu/CategorizeNewMember.cs) - [CodeWars](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) _Solved in 2022_
+- [Vowel count](7Kyu/VowelCount.cs) - [CodeWars](https://www.codewars.com/kata/54ff3102c1bad923760001f3) _Solved in 2022_
 
 # 6 Kyu
 
@@ -19,3 +20,4 @@
 # 5 Kyu
 
 - [Simple pig latin](5Kyu/SimplePigLatin.cs) - [CodeWars](https://www.codewars.com/kata/520b9d2ad5c005041100000f) _Solved in 2022_
+- [Pagination helper](5Kyu/PaginationHelper.cs) - [CodeWars](https://www.codewars.com/kata/515bb423de843ea99400000a) _Solved in 2022_
